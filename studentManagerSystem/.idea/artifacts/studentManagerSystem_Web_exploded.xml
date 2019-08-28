@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="studentManagerSystem:Web exploded">
+    <output-path>E:/apache-tomcat-9.0.6/webapps/studentManagerSystem</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="studentManagerSystem/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="studentManagerSystem" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
